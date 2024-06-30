@@ -2,7 +2,7 @@
 ## Static Website Hosting
 
 Static website hosting in Google Cloud Platform (GCP) involves serving static content such as HTML, CSS, JavaScript, images, and other assets directly from Google Cloud Storage. This type of hosting is ideal for websites that do not require server-side processing or dynamic content generation.
-## Key Concepts
+## Key  Concepts
 
 1. Google Cloud Storage Bucket:
 
